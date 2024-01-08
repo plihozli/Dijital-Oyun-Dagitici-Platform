@@ -49,6 +49,9 @@
 ***En son Uzaktan Oynama İşlemleri karşımıza çıkıyor.***
 
 
-![Ekran görüntüsü 2024-01-08 035400](https://github.com/plihozli/Dijital-Oyun-Dagitici-Platform/assets/120605002/f8ecc8de-14e0-453f-a98f-01351b0133f6)
+![Ekran görüntüsü 2024-01-08 035518](https://github.com/plihozli/Dijital-Oyun-Dagitici-Platform/assets/120605002/c3b76730-aac3-479c-9b0d-a491491ed508)
+
+
+
 
 
